@@ -28,4 +28,5 @@ git23-kita
 
 git@以下をホスト名にかえる。
 git clone git@23-kita:xxxx.git
+
 -->
