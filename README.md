@@ -26,6 +26,7 @@ git23-kita
 - kitarikes
 - 23-kita
 
+
 git@以下をホスト名にかえる。
 git clone git@23-kita:xxxx.git
 
