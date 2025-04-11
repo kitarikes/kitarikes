@@ -24,7 +24,6 @@ git23-kita
 
 ホスト名
 - kitarikes
-- 23-kita
 
 
 git@以下をホスト名にかえる。
